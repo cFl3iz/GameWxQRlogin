@@ -5,6 +5,16 @@
 "1.打开应用，注销当前登录，勾选协议后点击微信登录\n2.跳转到微信后，打开或切换到扫码APP，出现二维码后点击分享给对方。\n3.在扫码APP内等待对方扫码授权，成功授权后会自动跳转。"
 ],
 "game": [
+  {
+      "name": "地下城与勇士起源",
+      "py": "mdnf",
+      "appId": "wx15e4ed4511fd50c9",
+      "bundleId": "com.tencent.cdnf",
+      "pkg": "",
+      "cls": "",
+      "help": "",
+      "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0"
+    },
 {
 "name": "王者荣耀",
 "py": "wzry",
